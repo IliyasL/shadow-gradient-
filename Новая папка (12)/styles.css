@@ -1,0 +1,83 @@
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    box-shadow: 10px 15px 5px rgba(0, 0, 0, 0.2);
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    box-shadow: 15px 10px 5px rgba(133, 81, 81, 0.2);
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    box-shadow: 10px 15px 20px rgba(255, 0, 0, 0.377);
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 10px;
+    box-shadow: 5px 10px 25px rgba(73, 70, 70, 0.25);
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px;
+    box-shadow: 10px 5px 15px rgba(3, 1, 83, 0.685);
+}
+
+.box6 {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    margin: 10px;
+    box-shadow: 15px 5px 15px rgba(85, 12, 107, 0.849);
+}
+
+.text1 {
+    font-size: 20px;
+    color: black;
+    text-shadow: 2px 2px 4px rgba(6, 62, 136, 0.5);
+}
+
+.text2 {
+    font-size: 20px;
+    color: black;
+    text-shadow: 3px 3px 5px rgba(13, 25, 97, 0.548);
+}
+
+.text_1 {
+    font-size: 20px;
+    color: black;
+    text-shadow: 4px 4px 6px rgba(255, 0, 0, 0.5);
+}
+
+.text_2 {
+    font-size: 20px;
+    color: black;
+    text-shadow: 5px 5px 7px rgba(0, 255, 0, 0.5);
+}
+
+.linear-gradient {
+    width: 200px;
+    height: 100px;
+    background: linear-gradient(to right, red, yellow);
+}
+
+.radial-gradient {
+    width: 200px;
+    height: 100px;
+    background: radial-gradient(circle, red, yellow);
+}
